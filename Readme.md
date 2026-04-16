@@ -8,26 +8,12 @@ O sistema utiliza PHP para adicionar funcionalidades dinâmicas, como formulári
 
 ---
 
-## 🚀 Funcionalidades
+## 🖼️ Prints do projeto
 
-* Navegação entre páginas
-* Layout inspirado no site oficial
-* Formulário funcional com PHP
-* Estrutura organizada
-
----
-
-## 🖼️ Preview do projeto
+<img src ="readmeCps/Captura de tela 2026-04-13 141008.png" width="400px">
 
 ![Preview do site](../Eteczl/printindex.png)
 
----
+![Preview do site](../Eteczl/printindex.png)
 
-## 🎥 Demonstração do projeto
-
-[▶️ Assistir demonstração](https://drive.google.com/file/d/1RUUhiteHiJ5CJsujUCg3LEr55P4XMuHh/view?usp=sharing)
-
-
-
----
-
+![Preview do site](../Eteczl/printindex.png)
