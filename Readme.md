@@ -1,8 +1,6 @@
-# 💻 Portal ETEC - Projeto Web
+# 💻 Site Cps - Projeto PHP
 
 ## 📌 Sobre o projeto
-
-Este projeto é uma recriação do portal institucional da ETEC, com múltiplas páginas e um layout inspirado no site original.
 
 O sistema utiliza PHP para adicionar funcionalidades dinâmicas, como formulários e interação com o usuário.
 
@@ -10,10 +8,13 @@ O sistema utiliza PHP para adicionar funcionalidades dinâmicas, como formulári
 
 ## 🖼️ Prints do projeto
 
-<img src ="readmeCps/Captura de tela 2026-04-13 141008.png" width="400px">
+<img src ="readmeCps/Captura de tela 2026-04-13 141008.png" width="800px">
 
-![Preview do site](../Eteczl/printindex.png)
+<img src ="readmeCps/Captura de tela 2026-04-13 141311.png" width="800px">
 
-![Preview do site](../Eteczl/printindex.png)
+<img src ="readmeCps/Captura de tela 2026-04-13 141329.png" width="800px">
 
-![Preview do site](../Eteczl/printindex.png)
+<img src ="readmeCps/Captura de tela 2026-04-13 141617.png" width="800px">
+
+<img src ="readmeCps/Captura de tela 2026-04-13 141631.png" width="800px">
+
